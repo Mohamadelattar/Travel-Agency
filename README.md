@@ -10,8 +10,8 @@ Page web simple
 <br>
 <br>
 
-<img src="travel agency2.png">
+<img src="travel agency 2.png">
 <br>
 <br>
 
-<img src="travel agency3.png">
+<img src="travel agency 3.png">
